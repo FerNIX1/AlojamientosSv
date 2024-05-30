@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url('https://res.cloudinary.com/dxdsq6qcw/image/upload/v1716867946/syezvhbumhgejf63tkcn.jpg') no-repeat center center fixed; 
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    color: #fff;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.5); /* Fondo negro translúcido */
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+p {
+    font-size: 1.5em;
+    margin: 10px 0;
+}
+
